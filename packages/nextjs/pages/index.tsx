@@ -10,8 +10,8 @@ const Home: NextPage = () => {
       <div className="flex items-center flex-col flex-grow pt-10">
         <div className="px-5">
           <h1 className="text-center mb-8">
-            <span className="block text-2xl mb-2">Welcome to this is a test888</span>
-            <span className="block text-4xl font-bold">Scaffold-ETH 2</span>
+            <span className="block text-2xl mb-2">Welcome to mamaduka</span>
+            <span className="block text-4xl font-bold">sell your goods and services  2</span>
           </h1>
           <p className="text-center text-lg">
             Get started by editing{" "}
@@ -28,7 +28,7 @@ const Home: NextPage = () => {
             <div className="flex flex-col bg-base-100 px-10 py-10 text-center items-center max-w-xs rounded-3xl">
               <BugAntIcon className="h-8 w-8 fill-secondary" />
               <p>
-                Tinker with your smart contract using the{" "}
+                Get up to 20% off{" "}
                 <Link href="/debug" passHref className="link">
                   Debug Contract
                 </Link>{" "}
